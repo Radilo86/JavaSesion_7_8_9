@@ -8,6 +8,6 @@ public class Main {
         System.out.print(ej1.invertirCadena(cadena));
 
         // Ejercicio 2
-        
+
     }
 }
