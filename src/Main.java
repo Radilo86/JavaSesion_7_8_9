@@ -4,11 +4,12 @@ public class Main {
 
         String cadena = "hola mundo";
 
-        // Ejercicio 1
-        Ejercicio0 ej1 = new Ejercicio0();
-        System.out.print(ej1.invertirCadena(cadena));
+        // Ejercicio 0
+        Ejercicio0 ej0 = new Ejercicio0();
+        System.out.print(ej0.invertirCadena(cadena));
 
-        // Ejercicio 2
+        // Ejercicio 1
+
 
 
     }
